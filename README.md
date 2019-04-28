@@ -16,7 +16,7 @@ __Star this repository to sign the petition.__ Pull requests are also welcome. A
 
 This petition will be delivered to Adobe.
 
-♥ _[Contributors](https://github.com/pakastin/open-source-flash/graphs/contributors) and [signers](https://github.com/pakastin/open-source-flash/stargazers)_
+♥ _[Contributors](https://github.com/open-source-flash/open-source-flash/graphs/contributors) and [signers](https://github.com/open-source-flash/open-source-flash/stargazers)_
 
 ## Discussion
 - [Petition discussion on HN](https://news.ycombinator.com/item?id=14859740)
@@ -65,6 +65,7 @@ Flash and Shockwave was a platform for creative expression in an exciting new me
 We do lots to save and restore old manuscripts so, why not consider any interactive artworks that were developed on this platform and can't be ported truthfully to just a video format.
 
 Feel free to add other interactive art projects, websites, games and experiments that you think deserve to be saved:
+- [Superior Web Solutions](http://superior-web-solutions.com/)
 - [We Choose the Moon](http://wechoosethemoon.org/)
 - [25 Most Impressive Flash Sites](http://www.beautifullife.info/web-design/25-most-impressive-flash-sites/)
 - [Flyguy](https://en.wikipedia.org/wiki/Fly_Guy_(video_game))
@@ -104,6 +105,7 @@ also has huge [archive of old lego flash and shockwave games](http://biomediapro
 - [QWOP](http://www.foddy.net/Athletics.html) ([Wikipedia](https://en.wikipedia.org/wiki/QWOP))
 - [Drugs and the brain](http://jellinek.nl/brain/)
 - [Frog in a blender](http://joecartoon.com/games/play/65/Frog_in_a_Blender)
+- [Ultimate Flash Sonic](https://www.newgrounds.com/portal/view/151706)
 
 ## Flash and Shockwave games
 Some of these games will probably disappear if Flash gets killed:
@@ -111,6 +113,9 @@ Some of these games will probably disappear if Flash gets killed:
 - [SuperFighters](https://mythologicinteractive.com/Superfighters)
 - [Alien Hominid](http://www.newgrounds.com/portal/view/59593)
 - [Abobo's Big Adventure](http://abobosbigadventure.com/)
+- [Transformice](https://transformice.com)
+- [Dead Maze](https://deadmaze.com/alpha)
+- [Habbo Hotel](https://habbo.com)
 
 ## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
@@ -134,7 +139,7 @@ Projects that don't preserve Flash as such but provide knowledge about the file 
 These communities thrive with the [Adobe AIR runtime](http://www.adobe.com/devnet/air/air-sdk-download.html). The Adobe AIR runtime enables developers to package the same code into native applications and games for Windows and Mac OS desktops as well as iOS and Android devices, reaching over a billion desktop systems and mobile app stores for over 500 million devices.
 - [Starling](https://gamua.com/starling/) - The Cross Platform Game Engine used by thousands to publish GPU rendered games, it also uses the same famous Flash api for display list.
 - [Feathers](https://feathersui.com/) - Feathers puts it all together in one package — blazing fast GPU powered graphics, an impressive number of skinning options, and an extensible component architecture to create a smooth and responsive experience.
-- [RABCDA] (https://github.com/CyberShadow/RABCDAsm) - Robust ABC (ActionScript Bytecode) [Dis-]Assembler
+- [RABCDA](https://github.com/CyberShadow/RABCDAsm) - Robust ABC (ActionScript Bytecode) [Dis-]Assembler
 - [Royal/asjs](https://github.com/apache/royale-asjs) - Flex SDK is now Royal-asjs maintained by Apache Team 
 
 ## Next generation community efforts for ActionScript
@@ -150,4 +155,4 @@ open source and developed by the folks at Apache.
 OpenFL can compile code in Haxe into SWF, which means someone knows how to hack these binaries spec.
 Theoretically, we can also use [Starling](https://gamua.com/starling/) to render into HTML canvas and WebGL instead of Adobe's Stage 3D and use the [Apache FlexJS](http://flex.apache.org/) compiler to transpile it into JavaScript. This induces the following flow - migrating Flash based source code into the web.
 
-- [avmplus] (https://github.com/adobe/avmplus) AVM2 source code (flash player AVM1(?)AVM2 source code)
+- [avmplus](https://github.com/adobe/avmplus) AVM2 source code (flash player AVM1(?)AVM2 source code)
